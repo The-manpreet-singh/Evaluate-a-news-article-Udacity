@@ -3,13 +3,17 @@
 # Evaluate a news article with Natural Language Processing
 
 ## Run project
+
 Below shows how to run in development and production mode.
+
 ### run in development mode
+
 To start the webpack dev server at port 8080
 
 ` $ npm run build-dev`
 
 ### run in production mode
+
 Generate the dist files and then start server at port 3000
 
 ` $ npm run build-prod`
