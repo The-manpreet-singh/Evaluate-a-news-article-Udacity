@@ -21,6 +21,7 @@ Generate the dist files and then start server at port 3000
 ` $ npm run start`
 
 ## Configs
+
 Here, we have two webpack config files for both development mode(`webpack.config.dev.js`) and production mode(`webpack.config.prod.js` )
 
 We also have a `package.json` to manage dependencies
