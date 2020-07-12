@@ -141,7 +141,7 @@ Once you are hooked up to the Aylien API, you are most of the way there! Along w
 - Parse the response body to dynamically fill content on the page.
 - Test that the server and form submission work, making sure to also handle error responses if the user input does not match API requirements. 
 - Go back to the web pack config and add the setup for service workers.  
-- Test that the site is now available even when you stop your local server 
+- Test that the site is now available even when you stop your local server
 
 ## Deploying
 
