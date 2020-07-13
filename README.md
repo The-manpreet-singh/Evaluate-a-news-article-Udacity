@@ -111,8 +111,8 @@ var textapi = new aylien({
 - [ ] Fill the .env file with your API keys like this:
 
 ```
-API_ID=**************************
-API_KEY=**************************
+API_ID=************************
+API_KEY=***********************
 ```
 
 - [ ] Add this code to the very top of your server/index.js file:
