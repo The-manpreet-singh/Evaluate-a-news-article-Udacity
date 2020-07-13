@@ -27,7 +27,6 @@ function handleSubmit(event) {
 		.then((res) => res.json())
 		.then(function (res) {
 			document.getElementById("results").innerHTML = res.text;
-			//console.log(res);
 		});
 }
 
